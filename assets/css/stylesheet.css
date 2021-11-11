@@ -1,0 +1,18 @@
+
+body{
+    background-color: #B4B897;
+}
+.navbar-brand{
+    font-family: 'Press Start 2P', cursive;
+}
+.img-fluid{
+    height:500px;
+
+}
+.jumbotron{
+    background-color: #368B85;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
