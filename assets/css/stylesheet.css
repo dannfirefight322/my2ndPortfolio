@@ -17,10 +17,10 @@ body{
 }
 p{
     font-family: 'Press Start 2P', cursive;
-    font-size: 13px;
+    font-size: 12px;
 }
 .img-fluid{
-    height:340px;
+    height:240px;
 }
 .jumbotron{
     background-color: #368B85;
