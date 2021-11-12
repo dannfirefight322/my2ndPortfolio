@@ -8,19 +8,27 @@ body{
 .nes-btn{
     font-family: 'Press Start 2P', cursive;
 }
+.nes-icon{
+    padding-right: 25px;
+}
 .aboutMe{
     font-family: 'Press Start 2P', cursive;
 }
 p{
     font-family: 'Press Start 2P', cursive;
+    font-size: 14px;
 }
 .img-fluid{
-    height:500px;
+    height:340px;
 }
 .jumbotron{
     background-color: #368B85;
 }
 footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-color: black;
     text-align: center;
     color: #B4B897;
