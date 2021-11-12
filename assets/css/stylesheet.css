@@ -1,28 +1,38 @@
-
 body{
     background-color: #B4B897;
 }
 .navbar-brand{
     font-family: 'Press Start 2P', cursive;
+    font-size: 22px;
 }
-.nes-btn{
+.nes-btn, .aboutMe{
+    font-family: 'Press Start 2P', cursive;
+}
+.modal-title{
+    color: black;
     font-family: 'Press Start 2P', cursive;
 }
 .nes-icon{
     padding-right: 25px;
 }
-.aboutMe{
-    font-family: 'Press Start 2P', cursive;
-}
 p{
     font-family: 'Press Start 2P', cursive;
-    font-size: 14px;
+    font-size: 13px;
 }
 .img-fluid{
     height:340px;
 }
 .jumbotron{
     background-color: #368B85;
+}
+.form, input, textarea{
+    font-family: 'Press Start 2P', cursive;
+    margin-left:15px;
+    width: 75%;
+    color: black;
+}
+.dropdown-menu{
+    background-color: #E5E5E5;
 }
 footer{
     position: fixed;
