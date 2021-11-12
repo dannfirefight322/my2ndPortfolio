@@ -5,9 +5,11 @@ body{
 .navbar-brand{
     font-family: 'Press Start 2P', cursive;
 }
+p{
+    font-family: 'Press Start 2P', cursive;
+}
 .img-fluid{
     height:500px;
-
 }
 .jumbotron{
     background-color: #368B85;
