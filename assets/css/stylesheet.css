@@ -5,6 +5,12 @@ body{
 .navbar-brand{
     font-family: 'Press Start 2P', cursive;
 }
+.nes-btn{
+    font-family: 'Press Start 2P', cursive;
+}
+.aboutMe{
+    font-family: 'Press Start 2P', cursive;
+}
 p{
     font-family: 'Press Start 2P', cursive;
 }
@@ -17,5 +23,7 @@ p{
 footer{
     background-color: black;
     text-align: center;
+    color: #B4B897;
+    font-family: 'Press Start 2P', cursive;
 }
 @import "./node_modules/nes.css/css/nes.css"
