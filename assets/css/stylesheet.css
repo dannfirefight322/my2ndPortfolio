@@ -16,3 +16,4 @@ footer{
     background-color: black;
     text-align: center;
 }
+@import "./node_modules/nes.css/css/nes.css"
