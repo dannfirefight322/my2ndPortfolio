@@ -1,6 +1,11 @@
 body{
     background-color: #B4B897;
 }
+h3{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    background-color: #368B85;
+}
 .navbar-brand{
     font-family: 'Press Start 2P', cursive;
     font-size: 16px;
@@ -8,9 +13,13 @@ body{
 .nes-btn, .aboutMe{
     font-family: 'Press Start 2P', cursive;
 }
-.modal-title{
+.modal-title, .card-title{
     color: black;
     font-family: 'Press Start 2P', cursive;
+}
+.modal-body, .modal-footer, .modal-header, .dropdown-item{
+    background-color: #464660;
+    color: black;
 }
 .nes-icon{
     padding-right: 25px;
@@ -43,5 +52,9 @@ footer{
     text-align: center;
     color: #B4B897;
     font-family: 'Press Start 2P', cursive;
+}
+.card{
+    border: solid #5D5D5D 4px;
+    background-color: #368B85;
 }
 @import "./node_modules/nes.css/css/nes.css"
