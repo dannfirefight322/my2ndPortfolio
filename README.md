@@ -1,4 +1,5 @@
 # Porfolio Refactoring
+[Deployed](https://dannfirefight322.github.io/my2ndPortfolio/)
 ### With the help of nes.css i was able to achieve an 8-bit style for my portfolio.
 ### https://nostalgic-css.github.io/NES.css/
 ![homescreen](./assets/images/homescreen.png)
