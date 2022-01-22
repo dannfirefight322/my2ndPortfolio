@@ -57,4 +57,23 @@ footer{
     border: solid #5D5D5D 4px;
     background-color: #368B85;
 }
+.certs{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.cert{
+   width: 49%; 
+}
+@media screen and (max-width: 480px) {
+  .cert{
+      width: 90%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .cert{
+      width: 49%;
+  }
+}
+
 @import "./node_modules/nes.css/css/nes.css"
