@@ -63,7 +63,8 @@ footer{
     flex-wrap: wrap;
 }
 .cert{
-   width: 49%; 
+   width: 49%;
+   margin: 5px; 
 }
 @media screen and (max-width: 480px) {
   .cert{
