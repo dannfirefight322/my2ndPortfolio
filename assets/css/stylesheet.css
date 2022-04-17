@@ -95,6 +95,9 @@ footer{
   .utsa{
     width: 90%;
 }
+.language{
+    width: 100%;
+}
 }
 @media screen and (min-width: 768px) {
   .cert{
