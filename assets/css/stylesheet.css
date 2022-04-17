@@ -92,6 +92,9 @@ footer{
   .cert{
       width: 90%;
   }
+  .utsa{
+    width: 90%;
+}
 }
 @media screen and (min-width: 768px) {
   .cert{
